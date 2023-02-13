@@ -1,5 +1,10 @@
 # Transit Accessibility and Deprivation: Exploring Spatiotemporal Heterogeneity and Association
 
+Author: Zihao Zhou
+Date: Ongoing
+
+**Note: the content presented here are preliminary and are subject to change. This text is a shortened version of the actual research paper.**
+
 ## Abstract
 Following the "transport's economization", public transportation was rapidly constructed and reconstructed to (at least aimed to) simultaneously achieve economic, social, and environmental goals. However, even with a massive volume of literature around accessibility, the actual relationship between public transport accessibility and socioeconomic status has hitherto received scant attention from scholars. This study thus addresses this gap using a GIS-based quantitative approach. Transit accessibility with varied characterization approaches (including gravity method, cumulative opportunities method and spatial separation method) was calculated from various sources (including transit network, timetable road network, POIs and other socioeconomic data), using ArcGIS network analyst. In the analysis stage, this project first explored the spatial heterogeneity of urban deprivation and public transport accessibility using methods such as Global Moran's I, Getis-Ord Gi*, and Anselin Local Moran's I. Spatial patterns and autocorrelation is identified. Then, this study carried out a correlational analysis to explore the spatiotemporal relationship between deprivation and accessibility. Lastly, the factors which contribute to this relationship were briefly discussed.
 
