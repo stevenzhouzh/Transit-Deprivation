@@ -1,6 +1,7 @@
 # Transit Accessibility and Deprivation: Exploring Spatiotemporal Heterogeneity and Association
 
 Author: Zihao Zhou
+
 Date: Ongoing
 
 **Note: the content presented here are preliminary and are subject to change. This text is a shortened version of the actual research paper.**
